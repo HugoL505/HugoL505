@@ -8,7 +8,6 @@
  | 📝・13 Years old.
  | 🏴・French.                                    
 
-➜ ./iParis/readme.md ~ git:(master) ✗ tree
 .
 ├── Language
 │   ├── HTML
