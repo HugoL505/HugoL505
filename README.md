@@ -1,7 +1,7 @@
 ----
 ```md
 
- | Discord : HugoL.#1314     
+ | Discord : HugoL.#3323    
  | ------------
  |
  | 📧・?.
@@ -12,7 +12,10 @@
 ├── Language
 │   ├── HTML
 │   ├── CSS
+│   ├── Apprend le Java Skript 
 |   ├── Skript-Minecraft
+|   ├── Apprend le Kotlin
+|   ├── Apprend le React-Native
 │   └── Python
 └──
 
