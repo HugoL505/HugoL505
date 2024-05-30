@@ -1,11 +1,11 @@
 ----
 ```md
 
- | Discord : HugoL.#3323    
+ | Discord : byexo   
  | ------------
  |
  | 📧・?.
- | 📝・13 Years old.
+ | 📝・14 Years old.
  | 🏴・French.                                    
 
 .
